@@ -17,8 +17,8 @@ Developed over an intensive 10-day sprint, the application bridges systems engin
 ---
 
 ## 📺 Project Video Demonstration
-👉 **[Click Here to Watch the Capstone Video 
-[text](https://drive.google.com/file/d/1ezt4uljibwZKNKZBTFiFM1OgpPW0Jqc6/view?usp=drive_link)
+👉 ** Click Here to Watch the Capstone Video 
+[text]**(https://drive.google.com/file/d/1ezt4uljibwZKNKZBTFiFM1OgpPW0Jqc6/view?usp=drive_link)
 
 
 ### Why This Project Exists
