@@ -14,6 +14,13 @@ The **Local Infrastructure Automation & Network Diagnostics Engine** is a single
 
 Developed over an intensive 10-day sprint, the application bridges systems engineering with software project management by querying low-level operating system APIs, enforcing defensive async boundaries, and aggregating structured health reports chronologically into persistent flat-file storage.
 
+---
+
+## 📺 Project Video Demonstration
+👉 **[Click Here to Watch the Capstone Video 
+[text](https://drive.google.com/file/d/1ezt4uljibwZKNKZBTFiFM1OgpPW0Jqc6/view?usp=drive_link)
+
+
 ### Why This Project Exists
 
 - **Infrastructure Metrics:** Eliminates reliance on heavy third-party monitoring setups to sample local workstation RAM metrics.
